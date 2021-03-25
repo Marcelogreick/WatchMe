@@ -15,6 +15,7 @@ Em caso de download do projeto você precisará baixar as dependências:
 
 ```
 yarn dev 
+yarn server para iniciar o servidor local JSON SERVER
 Abrar o projeto em http://localhost:8080/
 ```
 
